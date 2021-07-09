@@ -1,5 +1,6 @@
 # flask-blog
-A blogging website made with flask backend
+* A blogging website made with flask backend
+* written in python 3.5.9
 
 # Installation
 * run pip install requirments.txt
