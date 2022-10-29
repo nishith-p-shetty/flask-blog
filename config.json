@@ -1,21 +1,22 @@
 {
     "params": {
-        "blog_name": "Your Blog Name",
-        "local_server": "True",
-        "local_uri": "mysql://root:@localhost/clean_blog",
-        "prod_uri": "mysql://username:password@localhost/db_name",
-        "twt_url": "https://twitter.com/MyProfile/",
-        "fb_url": "https://www.facebook.com/MyProfile/",
-        "git_url": "https://github.com/MyProfile/",
-        "mail_server": "smtp.gmail.com",
-        "mail_port": "465",
-        "mail_uname": "your_email@gmail.com",
-        "mail_pwd": "YourPassword",
-        "mail_recipient": "your_email@gmail.com",
-        "about_text": "Hi!, I am XXX, I am Not A Devoloper ",
+        "blog_name": "CS50X Blog",
+        "local_server": "False",
+        "local_uri": "sqlite:///./clean_blog.db",
+        "prod_uri": "sqlite:///./clean_blog.db",
+        "twt_url": "https://twitter.com/NishithPShetty/",
+        "fb_url": "https://www.facebook.com/nishith.p.shetty/",
+        "git_url": "https://github.com/nishith-p-shetty/",
+        "mail_server": "smtp.sendgrid.net",
+        "mail_port": "587",
+        "mail_uname": "apikey",
+        "mail_pwd": "YOUR-PASSWORD-HERE",
+        "mail_default": "YOUR-SENDER-ADDRESS",
+        "mail_recipient": "YPUR RECEIVER-ADDRESS",
+        "about_text": "Hi!, I am Nishith P Shetty, I am A Devoloper ",
         "no_of_posts": 3,
         "admin_user": "admin",
         "admin_pwd": "admin",
-        "upload_location": "D:\\Py-api\\static\\assets\\img"
+        "upload_location": "./static/assets/img"
     }
 }
