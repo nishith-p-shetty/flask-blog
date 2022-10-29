@@ -1,9 +1,12 @@
 # CS50XBLOG
 #### Video Demo:  <URL HERE>
 #### Description:
-* A blogging website made with flask backend
-* It uses Bootsprap CSS, Bootstrap Templates
-* written in python 3.5.9
+* Hello My, name is Nishith P Shetty & this is my cs50x final project.
+this is blogging site made with flask as backend
+this also uses bootstrap templates and css
+and also uses sqlite3 for databases
+there is a admin pannel which uses sessions to authenticate
+where you can add delete edit posts
 
 # Installation
 * run pip install requirments.txt
