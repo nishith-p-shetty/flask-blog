@@ -1,4 +1,4 @@
-# BLOG
+# CS50XBLOG
 #### Video Demo:  <URL HERE>
 #### Description:
 TODO
