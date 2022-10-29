@@ -1,9 +1,6 @@
 # CS50XBLOG
 #### Video Demo:  <URL HERE>
 #### Description:
-TODO
-
-
 * A blogging website made with flask backend
 * It uses Bootsprap CSS, Bootstrap Templates
 * written in python 3.5.9
