@@ -15,8 +15,8 @@
         "mail_recipient": "YPUR RECEIVER-ADDRESS",
         "about_text": "Hi!, I am Nishith P Shetty, I am A Devoloper ",
         "no_of_posts": 3,
-        "admin_user": "admin",
-        "admin_pwd": "admin",
+        "admin_user": "uname",
+        "admin_pwd": "pwd",
         "upload_location": "./static/assets/img"
     }
 }
