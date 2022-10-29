@@ -1,7 +1,7 @@
 # CS50XBLOG
 #### Video Demo:  <URL HERE>
 #### Description:
-* Hello My, name is Nishith P Shetty & this is my cs50x final project.
+Hello My, name is Nishith P Shetty & this is my cs50x final project.
 this is blogging site made with flask as backend
 this also uses bootstrap templates and css
 and also uses sqlite3 for databases
